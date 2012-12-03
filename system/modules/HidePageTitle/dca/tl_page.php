@@ -45,5 +45,5 @@ $GLOBALS['TL_DCA']['tl_page']['fields']['doNotShowPageTitle'] = array(
 	'label'                   => &$GLOBALS['TL_LANG']['tl_page']['doNotShowPageTitle'],
 	'exclude'                 => true,
 	'inputType'               => 'checkbox',
-	'eval'                    => array('tl_class'=>'')
+	'eval'                    => array('tl_class'=>'w50 m12')
 );
