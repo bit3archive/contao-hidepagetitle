@@ -2,7 +2,6 @@
 	"name":"bit3/contao-hidepagetitle",
 	"description":"Hide page title extension for Contao OpenSource CMS",
 	"keywords":["contao", "page", "title"],
-	"version":"1.2.0",
 	"type":"contao-module",
 	"homepage":"http://bit3.de",
 	"license":"LGPL-3.0+",
